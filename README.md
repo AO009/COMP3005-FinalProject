@@ -45,7 +45,7 @@ The project demonstrates:
 
 The project follows the required structure:
 
-- /project-root
+      - /project-root
         -/sql
           - DDL.sql # All CREATE TABLE, triggers, view, index
           - DML.sql # Sample data (5+ records per table)
