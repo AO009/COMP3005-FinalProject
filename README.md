@@ -45,18 +45,18 @@ The project demonstrates:
 
 The project follows the required structure:
 
-      - /project-root
-        -/sql
+       /project-root
+        /sql
           - DDL.sql # All CREATE TABLE, triggers, view, index
           - DML.sql # Sample data (5+ records per table)
 
-        - /app
+         /app
           - pom.xml
           - src/
             - main/
               - java/
 
-        - /docs
+         /docs
           - COMP 3005 Final Project Ahmed Omer.pdf  # ER diagram + Schema mapping + assumptions
           - Normalization_ COMP 3005 Final Project.pdf # Normalization
           - README.md    # video link + run instructions
