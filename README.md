@@ -2,7 +2,7 @@
 
 # Fitness Club Management System – COMP 3005 Final Project, Solo
 
-# Video Link: 
+# Video Link: https://youtu.be/Tf0uiXxdWZ4
 
 ## 1. Overview
 
