@@ -57,6 +57,6 @@ The project follows the required structure:
               - java/
 
          /docs
-          - COMP 3005 Final Project Ahmed Omer.pdf  # ER diagram + Schema mapping + assumptions
+          - COMP 3005 Final Project Ahmed Omer ER + Schema + Assumptions.pdf  # ER diagram + Schema mapping + assumptions
           - Normalization_ COMP 3005 Final Project.pdf # Normalization
           - README.md    # video link + run instructions
