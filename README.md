@@ -40,7 +40,7 @@ The project demonstrates:
 - A performance-related index for schedule queries
 - A Java CLI that uses JDBC to interact with the database
 
-- To Build and Run: mvn -DskipTests exec:java -Dexec.mainClass="app.Main"
+# To Build and Run: mvn -DskipTests exec:java -Dexec.mainClass="app.Main"
 
 
 ## 2. Repository / Folder Structure
